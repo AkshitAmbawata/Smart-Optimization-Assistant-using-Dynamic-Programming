@@ -1,1 +1,1 @@
-# -Smart-Optimization-Assistant-using-Dynamic-Programming
+# Smart-Optimization-Assistant-using-Dynamic-Programming
